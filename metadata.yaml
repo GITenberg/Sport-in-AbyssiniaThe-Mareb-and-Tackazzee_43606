@@ -1,0 +1,38 @@
+_repo: Sport-in-AbyssiniaThe-Mareb-and-Tackazzee_43606
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Whymper, Charles
+    alias: Whymper, C. (Charles)
+    birthdate: 1853
+    deathdate: 1941
+    gutenberg_agent_id: '43591'
+    url: http://www.gutenberg.org/2009/agents/43591
+covers:
+- cover_type: archival
+  image_path: 43606-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Mayo, Dermot Robert Wyndham Bourke, Earl of
+    alias: Wyndham Bourke, Dermot Robert, Earl of Mayo
+    birthdate: 1851
+    deathdate: 1927
+    gutenberg_agent_id: '42321'
+    url: http://www.gutenberg.org/2009/agents/42321
+description: ''
+gutenberg_issued: '2013-08-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43606'
+  lccn: 05008154
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hunting -- Ethiopia'
+- !lcsh 'Mayo, Dermot Robert Wyndham Bourke, Earl of, 1851-1927'
+- !lcsh 'Ethiopia -- Description and travel'
+- !lcc 'DT'
+title: Sport in Abyssinia; Or, The Mareb and Tackazzee
+url: http://www.gutenberg.org/ebooks/43606
